@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35319a1d-8360-4f65-8620-fa9ea883c39e": {
+      "ProjectGuid": "35319a1d-8360-4f65-8620-fa9ea883c39e",
+      "DisplayName": "BagMVC",
+      "ColorIndex": 0
+    },
+    "2639cb24-ba23-41cf-93d0-7519eb9aba7e": {
+      "ProjectGuid": "2639cb24-ba23-41cf-93d0-7519eb9aba7e",
+      "DisplayName": "BagLib",
+      "ColorIndex": 1
+    },
+    "a5b1fb5f-b9ec-419b-86ee-9f122a40054c": {
+      "ProjectGuid": "a5b1fb5f-b9ec-419b-86ee-9f122a40054c",
+      "DisplayName": "ApiStocksLib",
+      "ColorIndex": 2
+    },
+    "ee20b791-79f4-4554-9f53-332b6369da3d": {
+      "ProjectGuid": "ee20b791-79f4-4554-9f53-332b6369da3d",
+      "DisplayName": "ApiCountryLib",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
